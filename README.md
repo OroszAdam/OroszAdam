@@ -20,7 +20,7 @@
 
 🙋‍♂️ I am learning more about generative AI (Creating LORAs and genAI workflows)  
 
-🛠️ Tools I use: React, Next.js, ComfyUI, Unity  
+🛠️ Tools I use: React, NextJS, Javascript, Typescript , ComfyUI, Unity  
 
 ---
 
