@@ -33,4 +33,4 @@ Game development (Unity)
 
 ### 📬 Let's Connect
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/adam-orosz-b50008210/)
+🔗 [LinkedIn](https://www.linkedin.com/in/adam-orosz-b50008210/)
