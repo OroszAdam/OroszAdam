@@ -7,17 +7,18 @@
 
 🌍 Based in Budapest | Lived across France and Italy  
 
+🙌 Let's collaborate on anything **generative AI** and **SaaS**
+
+
 ---
 
 ### 🚀 What I Do
 
 🫏 Currently building frontend used by dozens of thousands at PM-International  
 
-🤖 Previously developed robotic surgery systems at Quantum Surgical, and commissioned robots in the automotive industry at evopro systems engineering  
+🤖 Previously developed **robotic surgery systems** at Quantum Surgical, and **commissioned robots** in the automotive industry at evopro systems engineering  
 
 🙋‍♂️ I am learning more about generative AI (Creating LORAs and genAI workflows)  
-
-🙌 Let's collab on anything generative AI and SaaS
 
 🛠️ Tools I use: React, Next.js, ComfyUI, Unity  
 
