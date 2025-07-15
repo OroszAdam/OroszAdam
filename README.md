@@ -14,7 +14,7 @@
 
 ### 🚀 What I Do
 
-🫏 Currently building frontend used by dozens of thousands at PM-International  
+🫏 Currently building frontend used by dozens of thousands users at PM-International  
 
 🤖 Previously developed **robotic surgery systems** at Quantum Surgical, and **commissioned robots** in the automotive industry at evopro systems engineering  
 
