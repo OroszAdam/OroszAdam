@@ -18,9 +18,9 @@
 
 🤖 Previously developed **robotic surgery systems** at Quantum Surgical, and **commissioned robots** in the automotive industry at evopro systems engineering  
 
-🙋‍♂️ I am learning more about generative AI (Creating LORAs and genAI workflows)  
+🙋‍♂️ I am learning more about generative AI (Creating LORAs and GenAI workflows)  
 
-🛠️ Tools I use: React, NextJS, Javascript, Typescript , ComfyUI, Unity  
+🛠️ Tools I use: React, NextJS, Javascript, Typescript, ComfyUI, Unity  
 
 ---
 
