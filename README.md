@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Ádám Orosz 👋
 
-<!--
-**OroszAdam/OroszAdam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🧠 Robotics Enthusiast | Frontend Engineer | XR & Industrial Robotics  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Double MSc in Computer Science & Mechatronics  
+
+🌍 Based in Budapest | Lived across France and Italy  
+
+🙌 Let's collaborate on anything **generative AI** and **SaaS**
+
+
+---
+
+### 🚀 What I Do
+
+🫏 Currently building frontend used by dozens of thousands of users at PM-International  
+
+🤖 Previously developed **robotic surgery systems** at Quantum Surgical, and **commissioned robots** in the automotive industry at evopro systems engineering  
+
+🙋‍♂️ I am learning more about generative AI (Creating LORAs and GenAI workflows)  
+
+🛠️ Tools I use: React, NextJS, Javascript, Typescript, ComfyUI, Unity  
+
+---
+
+### 🧪 Areas of Interest
+
+Robotics, mainly humanoid and marine robotics
+
+Front-end development, including 3D interactions (Next, React, ThreeJS)  
+
+Generative AI and content creation automation (ComfyUI)  
+
+---
+
+### 📬 Let's Connect
+
+🔗 [LinkedIn](https://www.linkedin.com/in/adam-orosz-b50008210/)
